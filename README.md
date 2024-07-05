@@ -1,2 +1,3 @@
 # EmpoScied
-The objective of this study was to develop a system that could effectively manage the inventory of chemicals, equipment, and supplies in the Batangas State University Science Laboratory. Additionally, the system aimed to monitor equipment borrowing, identify expired chemicals and shortages of supplies, and provide access control to the laboratory.
+The system developed for the Batangas State University Science Laboratory aims to efficiently manage inventory, monitor equipment borrowing, identify expired chemicals and supply shortages, and enhance access control. This comprehensive solution ensures the laboratory operates smoothly, maintaining safety and resource availability.
+
